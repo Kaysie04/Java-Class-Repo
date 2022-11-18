@@ -7,19 +7,19 @@ public class JavaBasicsClass {
 
 	
 	public static void main(String[] args) {
-//		displaySumOne();
-//		displaySumTwo();
-//		displaySumThree();
-//		displaySumFour();
-//		displaySumFive();
-//		displaySumSix();
-//		displaySumSeven();
-//		displaySumEight();
-//		binaryAssignmentOne();
-//		binaryAssignmentTwo();
-		// binaryAssignmentThree();
-		//binaryAssignmentFour();
-		//binaryAssignmentFive();
+		displaySumOne();
+		displaySumTwo();
+		displaySumThree();
+		displaySumFour();
+		displaySumFive();
+		//displaySumSix();
+		displaySumSeven();
+		displaySumEight();
+		binaryAssignmentOne();
+		binaryAssignmentTwo();
+		binaryAssignmentThree();
+		binaryAssignmentFour();
+		binaryAssignmentFive();
 		binaryAssignmentSix();
 
 	}
@@ -145,8 +145,6 @@ public class JavaBasicsClass {
 			int sum = x++ + 8;
 			System.out.println(sum);
 		}
-		
-	
 	
 }
 
