@@ -67,9 +67,9 @@ public class JavaBasicsClass {
 	public static void displaySumSix() {
 		int x = 5;
 		int y = 6;
-		//int q = y / x;
-		int q = (double) y;
-		System.out.println("displaySumSix value: " + q);
+		// q = y / x;
+		// q = (double) y;
+		System.out.println("displaySumSix value: ");
 		
 	}
 	

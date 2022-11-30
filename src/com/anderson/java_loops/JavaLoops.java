@@ -12,7 +12,7 @@ public class JavaLoops {
 		//pyramidExample();
 		//guessNumber();
 		//subtractionQuiz();
-		sentinalValue();
+		//sentinalValue();
 		
 
 	}
